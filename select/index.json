@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Conqueror",
+  "base_artist": "IA",
+  "createdAt": "2026-01-13T18:22:11.302492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Duppy Conqueror V/4",
+      "artist": "The Wailers",
+      "has_synced": false,
+      "path": "select/01_Duppy_Conqueror_V_4_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Conqueror",
+      "artist": "Armored Saint",
+      "has_synced": true,
+      "path": "select/02_Conqueror_Armored_Saint.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Conqueror",
+      "artist": "Sodom",
+      "has_synced": false,
+      "path": "select/03_Conqueror_Sodom.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Conqueror",
+      "artist": "Enthroned",
+      "has_synced": false,
+      "path": "select/04_Conqueror_Enthroned.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Conqueror",
+      "artist": "Sodom",
+      "has_synced": true,
+      "path": "select/05_The_Conqueror_Sodom.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Conqueror",
+      "artist": "Genesis",
+      "has_synced": false,
+      "path": "select/06_The_Conqueror_Genesis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Conqueror Worm",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/07_The_Conqueror_Worm_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Conqueror Worm",
+      "artist": "Lou Reed/Willem Dafoe",
+      "has_synced": true,
+      "path": "select/08_The_Conqueror_Worm_Lou_Reed_Willem_Dafoe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Duppy Conqueror",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": false,
+      "path": "select/09_Duppy_Conqueror_Bob_Marley_&_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Duppy Conqueror (Alternate Take) - JAD",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": false,
+      "path": "select/10_Duppy_Conqueror_(Alternate_Take)_-_JAD_Bob_Marley_&_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Duppy Conqueror (alternate take)",
+      "artist": "Bob Marley and The Wailers",
+      "has_synced": false,
+      "path": "select/11_Duppy_Conqueror_(alternate_take)_Bob_Marley_and_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Duppy Conqueror",
+      "artist": "The Wailers & Bob Marley",
+      "has_synced": false,
+      "path": "select/12_Duppy_Conqueror_The_Wailers_&_Bob_Marley.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Duppy Conqueror - Version 4",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": false,
+      "path": "select/13_Duppy_Conqueror_-_Version_4_Bob_Marley_&_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Conqueror (Live)",
+      "artist": "Sodom",
+      "has_synced": true,
+      "path": "select/14_Conqueror_(Live)_Sodom.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Conqueror (feat. Telle & Tre Watson)",
+      "artist": "Pentakill feat. TELLE & Tre Watson",
+      "has_synced": true,
+      "path": "select/15_Conqueror_(feat._Telle_&_Tre_Watson)_Pentakill_feat._TELLE_&_Tre_Watson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Conqueror",
+      "artist": "Pentakill",
+      "has_synced": true,
+      "path": "select/16_Conqueror_Pentakill.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Conqueror",
+      "artist": "Estelle",
+      "has_synced": true,
+      "path": "select/17_Conqueror_Estelle.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Conqueror Worm",
+      "artist": "Aurelio Voltaire",
+      "has_synced": true,
+      "path": "select/18_The_Conqueror_Worm_Aurelio_Voltaire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Conqueror",
+      "artist": "IA",
+      "has_synced": false,
+      "path": "select/pl_01_Conqueror_IA.txt"
+    }
+  ]
+}
